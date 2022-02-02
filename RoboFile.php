@@ -2,13 +2,13 @@
 /**
  * Contains RoboFile
  *
- * @package grandtraverse
+ * @package oklahoma-vip
  */
 
 /**
  * @author Joshua Copeland <josh@engagednation.com>
  * @author Matthew Kosolofski <matthew.kosolofski@engagednation.com>
- * @package grandtraverse
+ * @package oklahoma-vip
  */
 class RoboFile extends \Robo\Tasks
 {
